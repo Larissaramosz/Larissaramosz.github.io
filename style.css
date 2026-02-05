@@ -63,3 +63,13 @@ section p {
   border-radius: 10px;
   margin-bottom: 10px;
 }
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  background: #6d28d9;
+  color: #fff;
+  padding: 14px 28px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+}
